@@ -61,5 +61,8 @@ h1 {
 .container6 {
     display: flex;
     justify-content: space-evenly;
-    
+}
+.container-exercicioB{
+    display: flex;
+    flex-direction: column-reverse;
 }
